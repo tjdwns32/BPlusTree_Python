@@ -1,8 +1,10 @@
 # BPlusTree_Python
 B+Tree implementation with python
 
-you can set b which means max # of child node of tree
+You can set b which means max # of child node of tree
 
-this code only implemented insertion, deletion, search function of B+Tree
+This code only implemented insertion, deletion, search function of B+Tree
 
-the test data is consist of one million index(incremental) and value, both of them are integer.
+Test data is consist of one million index(incremental) and value, both of them are integer.
+
+The result of search will be stored in a .csv file in result folder 
